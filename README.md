@@ -1,7 +1,7 @@
 <h1 align="center">== Hello I'm Hy (Dan) Vo ==</h1>
 <h3 align="left">Software Developer | .NET | System Analyst | Power BI</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 Concentrating on **Software Development & Data Analysis**
 
