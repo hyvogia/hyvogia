@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! It's ( ☞˙ᵕ˙)☞ Hy Võ </h1>
-<h3 align="left">Software Engineer | .NET | Data Analyst | Python, SQL, Excel, Task Scheduler</h3>
+<h3 align="left">Software Engineer | .NET | Data Analyst | Python, SQL, Excel</h3>
 
 - 🌱 I’m currently learning **AI/ML**
 
