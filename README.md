@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI & Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [hyportfolio.com](hyportfolio.com)
+- 👨‍💻 All of my projects are available at [hyportfolio.com](https://www.hyportfolio.com)
 
 - 💬 Ask me about **react & java**
 
